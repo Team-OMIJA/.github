@@ -22,7 +22,7 @@ OMIJOY는 **KOPIS 공공 데이터와 Kakao 지도, 소셜 로그인, 즐겨찾�
 - 마음에 드는 공연·공연장을 저장하고,  
 - 좋아요(즐겨찾기)한 공연 목록을 **링크로 공유**할 수 있는
 
-**공연·공연장 통합 플랫폼**을 목표로 제작되었습니다. :contentReference[oaicite:0]{index=0}
+**공연·공연장 통합 플랫폼**을 목표로 제작되었습니다.
 
 ---
 
@@ -128,6 +128,16 @@ OMIJOY는 **KOPIS 공공 데이터와 Kakao 지도, 소셜 로그인, 즐겨찾�
   + 기타 소셜 로그인 및 외부 연동 API
 </p>
 
+### DevOps / Infra / 배포
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Hub-Registry-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP_Compute_Engine-VM-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker_compose-Orchestration-384D54?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-Proxy%20%26%20Static%20Serve-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
 ---
 
 ## 📂 프로젝트 폴더 구조

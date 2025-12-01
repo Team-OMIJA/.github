@@ -163,8 +163,9 @@ omijoy-frontend
 ├── tsconfig.json / tsconfig.node.json
 ├── vite.config.ts
 └── 기타 설정 파일 (Dockerfile, cors.json, README.md 등)
-Backend
-bash
+```
+### Backend
+```bash
 코드 복사
 omijoy-backend/
 └── src/
@@ -186,3 +187,4 @@ omijoy-backend/
         └── resources/
             ├── static/
             └── templates/
+```

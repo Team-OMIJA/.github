@@ -109,7 +109,7 @@ OMIJOY는 **KOPIS 공공 데이터와 Kakao 지도, 소셜 로그인, 즐겨찾�
 
 ### Backend
 <p>
-  <img src="https://img.shields.io/badge/Spring_Boot-3.2.x-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-3.5.6-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Framework-6.2.12-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-17+-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA%20/%20Hibernate-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white" />
